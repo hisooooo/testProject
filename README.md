@@ -1,7 +1,7 @@
-과일
+Fruit
 
- - 빨간색
- - 주황색
- - 노란색
- - 초록색
+ - Red
+ - Orange
+ - Yellow
+ - Green
  
