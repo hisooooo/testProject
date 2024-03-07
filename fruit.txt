@@ -4,7 +4,10 @@ Green       Melon
 Green       Water Melon
 Green       Kiwi
 
-오렌지
-파파야
-귤
+Orange     오렌지
+Orange     파파야
+Orange     귤
 
+yellow      Lemon
+yellow	  Banana
+yellow	  Mango
