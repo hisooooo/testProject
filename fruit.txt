@@ -11,3 +11,7 @@ Orange     귤
 yellow      Lemon
 yellow	  Banana
 yellow	  Mango
+
+red	  사과
+red	  딸기
+red	  체리
